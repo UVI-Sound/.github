@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[UVI Project]([https://github.com/vuejs/vue](https://github.com/orgs/UVI-Sound/projects/9))
+[UVI Project](https://github.com/orgs/UVI-Sound/projects/9)
 
 <!--
 
